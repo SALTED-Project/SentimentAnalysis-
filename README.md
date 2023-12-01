@@ -28,19 +28,19 @@ In essence, the value proposition revolves around leveraging technology to trans
 
 Here we can explore the sentiment distribution of tweets throughout the daily hours in the months of April, May, and June through some visualizations and gain valuable insights into the natural distribution of tweets and identify peak hours for both positive and negative sentiments. These types of visualizations provide an overview, allowing you to discern patterns in tweet sentiments.
 
-#### 📧 Contact Information
+<img src="https://github.com/SALTED-Project/SentimentAnalysis-/blob/main/April.png?raw=true" alt="Sentiment April" height="300px"/>
+<img src="https://github.com/SALTED-Project/SentimentAnalysis-/blob/main/June.png?raw=true" alt="Sentiment June" height="300px"/>
+<img src="https://github.com/SALTED-Project/SentimentAnalysis-/blob/main/May.png?raw=true" alt="Sentiment May" height="300px"/>
 
----
+#### 📧 Contact Information
+This application was developed by [DICE Lab](https://dice.wp.telecom-sudparis.eu/) at [IMT](https://www.telecom-sudparis.eu/).
+
 
 ## Infrastructure
-
----
+TBD
 
 ## License
-
-
----
-
+N/A
 
 ## Acknowledgement
 This work was supported by the European Commission CEF Programme by means of the project SALTED ‘‘Situation-Aware Linked heTerogeneous Enriched Data’’ under the Action Number 2020-EU-IA-0274.
